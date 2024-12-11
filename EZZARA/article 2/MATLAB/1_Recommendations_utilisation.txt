@@ -1,0 +1,6 @@
+
+1- Ouvrez et compilez (Run) le fichier "Parametres.m" contenant les paramètres et les constantes du drone.
+2- Ouvrez et compilez (Run)  le fichier "state_space.m" contenant la représenatation d'état non linéaire de l'UAV.
+3- Ouvrez et compilez (Run) les fichiers "cvx_observer.slx" pour résoudre les LMIs.
+
+Pour toute erreur d'exécution ou  simulation vous pouvez contacter l'auteur.
