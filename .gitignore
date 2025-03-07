@@ -1,0 +1,7 @@
+# Ignorer le fichier contenant les identifiants
+.env
+
+# Ignorer les fichiers Python inutiles
+__pycache__/
+*.pyc
+*.pyo
